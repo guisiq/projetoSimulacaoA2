@@ -40,7 +40,7 @@ Foi considerado que a chegada de um novo integrante irá reduzir para em 2/3  do
 | Tempo de Atraso | Entre 14 e 19 minutos | Entre 8 e 12 minutos  | Entre 6 e 9 minutos  | Entre 12 e 17 minutos |
 | Capacidade da fila  | 30 | 30 | 30 | 30 |
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9932c372-c689-4d3e-b652-be0550ce9f7e/5de6a8bd-277c-49e9-b05e-16e654f476a8/Untitled.jpeg)
+![Untitled](https://github.com/guisiq/projetoSimulacaoA2/blob/master/Untitled.jpeg)
 
 **Processo com Novo Integrante No Grupo de Lavagem**
 
@@ -49,7 +49,7 @@ Foi considerado que a chegada de um novo integrante irá reduzir para em 2/3  do
 | Tempo de Atraso | 2/3 do Tempo atual | 2/3 do Tempo atual | Tempo atual | Tempo atual |
 | Capacidade da fila  | 30 | 30 | 30 | 30 |
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9932c372-c689-4d3e-b652-be0550ce9f7e/cea8085f-11d4-416d-a4fc-65b9ccf9a752/Untitled.jpeg)
+![Untitled](https://github.com/guisiq/projetoSimulacaoA2/blob/master/Untitled%20(1).jpeg)
 
 - **Processo com Novo Integrante do Grupo de Serviços Adicionais**
 
@@ -58,7 +58,7 @@ Foi considerado que a chegada de um novo integrante irá reduzir para em 2/3  do
 | Tempo de Atraso | Tempo atual | Tempo atual | 2/3 do Tempo atual | 2/3 do Tempo atual |
 | Capacidade da fila  | 30 | 30 | 30 | 30 |
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9932c372-c689-4d3e-b652-be0550ce9f7e/ec4b1ec9-4c85-457f-a837-00e561672fd9/Untitled.jpeg)
+![Untitled](https://github.com/guisiq/projetoSimulacaoA2/blob/master/Untitled%20(2).jpeg)
 
 ## Conclusão
 
