@@ -2,8 +2,6 @@
 
 [Link do projeto de Simulação](https://github.com/guisiq/projetoSimulacaoA2/)
 
-[GitHub - guisiq/projetoSimulacaoA2](https://github.com/guisiq/projetoSimulacaoA2/)
-
 ## **Contexto**
 
 A empresa L.G. Lavagem de Carros atualmente conta com uma equipe de quatro servidores/prestadores de serviços, onde cada um deles é responsável por uma das seguintes atividades:
@@ -25,11 +23,11 @@ Para mapear de forma eficaz a simulação que deveria ser realizada  a equipe re
 
 ### Fluxograma
 
-![WhatsApp Image 2024-06-12 at 9.25.39 AM.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/9932c372-c689-4d3e-b652-be0550ce9f7e/47482b69-a2b6-4586-bf06-af9b22859340/WhatsApp_Image_2024-06-12_at_9.25.39_AM.jpeg)
+![WhatsApp Image 2024-06-12 at 9.25.39 AM.jpeg](https://github.com/guisiq/projetoSimulacaoA2/blob/master/WhatsApp%20Image%202024-06-12%20at%209.25.39%20AM.jpeg)
 
 ### ACD
 
-![WhatsApp Image 2024-06-12 at 7.56.33 AM.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/9932c372-c689-4d3e-b652-be0550ce9f7e/c1797057-ad44-4266-becf-88c6d6c4d7ef/WhatsApp_Image_2024-06-12_at_7.56.33_AM.jpeg)
+![WhatsApp Image 2024-06-12 at 7.56.33 AM.jpeg](https://github.com/guisiq/projetoSimulacaoA2/blob/master/WhatsApp%20Image%202024-06-12%20at%207.56.33%20AM.jpeg)
 
 ## Cenários
 
